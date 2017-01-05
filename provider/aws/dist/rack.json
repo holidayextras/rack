@@ -656,6 +656,7 @@
                       "autoscaling:ResumeProcesses",
                       "autoscaling:SetDesiredCapacity",
                       "autoscaling:SetInstanceHealth",
+                      "autoscaling:SuspendProcesses",
                       "autoscaling:TerminateInstanceInAutoScalingGroup",
                       "autoscaling:UpdateAutoScalingGroup",
                       "cloudformation:CreateStack",
